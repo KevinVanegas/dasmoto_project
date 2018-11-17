@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {
+	font-family: "Helvetica";
+	font-size: 100px;
+	font-weight: bold;
+	color: khaki;
+	text-align: center;
+	background-image: url("../main.jpeg");
+}
+#brushes h2{
+	font-family: "Helvetica";
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	background-color: mediumspringgreen;
+}
+#frames h2{
+	font-family: "Helvetica";
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	background-color: lightcoral;
+}
+#paint h2{
+	font-family: "Helvetica";
+	font-size: 32px;
+	font-weight: bold;
+	color: white;
+	background-color: skyblue;
+}
+span.price {
+	font-family: "Helvetica";
+	font-weight: bold;
+	color: blue;
+}
